@@ -1,3 +1,7 @@
+title: Specifics
+permalink: /specifics/
+
+# Specifics
 ### Branding & Graphics
 
 * **Logo systems**: primary/secondary marks, mono/inverted
