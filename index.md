@@ -67,7 +67,7 @@
 - Examples: new style direction after approval, extra variants, additional screens, texture rework, shaders, etc.
 
 
-**Quick Brief** *(copy/paste when inquiring, along with any other relevant details.)*  
+**Quick Brief** *(copy/paste when inquiring, along with any other relevant details!)*  
 - **Project type(s):** [branding/character/environment/3D/UI]  
 - **Use case:** [print, game, web, socials, merch]  
 - **Style refs:** [links or short notes]  
@@ -77,4 +77,4 @@
 - **NDA required?** [yes/no]  
 
 **Discord:** virios.  
-**Instagram:** [@virios.v2](https://instagram.com/virios.v2) / [@mai3yi](https://instagram.com/mai3yi)
+**Instagram:** [@virios.v2](https://instagram.com/virios.v2) 
