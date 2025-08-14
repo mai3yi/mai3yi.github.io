@@ -74,7 +74,9 @@
 - **Deliverables:** [file types, counts]  
 - **Deadline:** [date]  
 - **Budget range:** [$]  
-- **NDA required?** [yes/no]  
+- **NDA required?** [yes/no]
+
+#### [See the full details on the kinds of work I can deliver here.](specifics.md)
 
 **Discord:** virios.  
 **Instagram:** [@virios.v2](https://instagram.com/virios.v2) 
