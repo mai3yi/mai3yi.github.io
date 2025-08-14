@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: null
+layout: default
 ---
 
 # **Commissions, Process, and Terms**
