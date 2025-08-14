@@ -1,5 +1,5 @@
 ---
-title: Specifics
+title: specifics
 permalink: /specifics/
 ---
 
