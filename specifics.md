@@ -1,6 +1,3 @@
-title: Specifics
-permalink: /specifics/
-
 # Specifics
 ### Branding & Graphics
 
