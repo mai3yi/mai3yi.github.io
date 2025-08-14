@@ -76,7 +76,8 @@
 - **Budget range:** [$]  
 - **NDA required?** [yes/no]
 
-#### [See the full details on the kinds of work I can deliver here.]({{ '/specifics/' | relative_url }})
+#### [See the full details on the kinds of work I can deliver here.](/specifics/)
+
 
 
 **Discord:** virios.  
