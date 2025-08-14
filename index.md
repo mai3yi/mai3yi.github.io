@@ -76,7 +76,8 @@
 - **Budget range:** [$]  
 - **NDA required?** [yes/no]
 
-#### [See the full details on the kinds of work I can deliver here.](specifics.md)
+#### [See the full details on the kinds of work I can deliver here.]({{ '/specifics/' | relative_url }})
+
 
 **Discord:** virios.  
 **Instagram:** [@virios.v2](https://instagram.com/virios.v2) 
