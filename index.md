@@ -36,7 +36,7 @@ title: Home
 **File Formats**  
 - **2D:** PNG (300 DPI), JPG (web), PDF  
 - **Vector:** SVG, PDF  
-- **3D:** .blend/.fbx/.obj, textures (PNG) - FBX is **visual-use only**, not guaranteed to be game-ready.  
+- **3D:** .blend/.fbx/.obj, textures (PNG)- FBX is **visual-use only**, not guaranteed to be game-ready.  
 - **UI:** Layered Illustrator or PSD
 - **ANIMATED:** Layered AE files with pre-compositions included, + original 2D files.
 - **Color:** sRGB (web), CMYK/spot on request  
