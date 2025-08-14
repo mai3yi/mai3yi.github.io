@@ -8,19 +8,19 @@
 *(& what you can expect from me)*  
 
 ### Step 1: Brief  
-We go over your goals, references, scope, deadline, and budget.  
+##### We go over your goals, references, scope, deadline, and budget.  
 
 ### Step 2: Quote & Deposit  
-I send you a final quote + invoice, and you send 50% deposit to finalize your slot.  
+##### I send you a final quote + invoice, and you send 50% deposit to finalize your slot.  
 
 ### Step 3: Concepts  
-I deliver thumbnails/moodboards, and you pick a direction from that. At this stage, I can accommodate big changes.
+##### I deliver thumbnails/moodboards, and you pick a direction from that. At this stage, I can accommodate big changes.
 
 ### Step 4: Revisions  
-We make adjustments based on the revision limit you purchased, and I start working on the final product. 
+##### We make adjustments based on the revision limit you purchased, and I start working on the final product. 
 
 ### Step 5: Finals  
-You approve the final, pay the balance, and I send you the promised deliverables. 
+##### You approve the final, pay the balance, and I send you the promised deliverables. 
 
 
 **Timelines**  
